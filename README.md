@@ -19,7 +19,7 @@ We aim to create an **interactive game** that:
 - **Azure Cognitive Services** → Content analysis & threat simulation  
 
 ## 🗂️ Tech Diagram & Stack 
-- **Tech Diagram:** *[Diagram Placeholder]*  
+- **Tech Diagram:** ![Technical Stack Architecture](assets/TechStackImage.png)
 - **Tech Stack:**
   - Frontend: React (for interactive UI)  
   - Backend: Node.js / Express  
